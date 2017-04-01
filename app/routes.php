@@ -7,6 +7,6 @@ $router->get([
     'uri'  => '/simple',
     'uses' => function()
     {
-        return 'Hello World';
+        return 'Hello Worlsd';
     }
 ]);
